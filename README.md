@@ -2,7 +2,7 @@
 rinna/japanese-gpt-neox-3.6b-instruction-sftを試すスクリプト
 
 ## Overview
-最低限のコードでしょうもないGUIを出してチャットを試せます。
+しょうもないコードでしょうもないGUIを出してチャットを試せます。
 
 <img width="379" alt="スクリーンショット 2023-05-19 135312" src="https://github.com/ORGN-G/chat_rinna_3.6b/assets/39918886/71cf86b7-278f-4fbe-92a2-25d3ec590727">
 
